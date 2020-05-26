@@ -6,4 +6,5 @@ including skills such as manipulating photos, working with a cripping mask,effec
 
 I hope you like them.
 
-![alt text](http://picsum.photo/200/200)
+![alt text](/Apple%20Water%20Dispersion.png)
+![alt text](/fish%20in%20light%20bulb.png)
